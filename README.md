@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
