@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
