@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/1051-height-checker) |
 | [2574-left-and-right-sum-differences](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/1051-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Tark-khambhala/Leetcode-Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
